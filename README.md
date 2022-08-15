@@ -17,7 +17,7 @@ The test set will be automatically downloaded by gdown when clicking "Run All".
 - requirements.txt
 - Crimes_in_Chicago_EDA_Training.ipynb
 - Testing.ipynb
-- ds_worshop_report.pdf
+- BIU Data Science Report.pdf
 
 ## Installation and dependencies
 1. Clone the repository
