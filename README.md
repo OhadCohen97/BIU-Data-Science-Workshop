@@ -22,7 +22,7 @@ The test set will be automatically downloaded by gdown when clicking "Run All".
 ## Installation and dependencies
 1. Clone the repository
 2. Create a new python environment
-3. run: pip install -r requirements.txt in your shell.
+3. run: pip install -r requirements.txt in your shell
 
 ## Train Model (Not recommended - takes a long time)
 1. Enter to "Crimes_in_Chicago_EDA_Training.ipynb"
