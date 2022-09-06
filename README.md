@@ -1,7 +1,7 @@
 # BIU-Data-Science-Workshop
 
 Dear tester,
-this is our project for the data science workshop cours.
+this is our project for the data science workshop course.
 That README file is designed to make it easier for the tester to test our model and project in general.
 
 All the trained weights of our network and the data needed for training and testing the model can be automatically downloaded by pre-written commands (using gdown).
