@@ -1,8 +1,6 @@
 # BIU-Data-Science-Workshop
 
-Dear tester,
-this is our project for the data science workshop course.
-That README file is designed to make it easier for the tester to test our model and project in general.
+This project is for the Data Science Workshop course.
 
 All the trained weights of our network and the data needed for training and testing the model can be automatically downloaded by pre-written commands (using gdown).
 Training the model requires very strong processing power and takes a lot of time, so we recommend using the "EDA_Training" notebook for reference only. All outputs are there of course.
